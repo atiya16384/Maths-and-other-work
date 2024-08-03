@@ -5,3 +5,5 @@ Linear Systems project - used nyquist plots and generated solutions of functions
 Linear Algebra essay- Completed as part of group work and recieved 4/5.
 
 Computer Science Seminars- Wrote the report on the intersection of computer science and philosophy. The need for programmers to be ethically sound is important; especially with the heightened talk of AI regulation these days. Received first overall.
+
+Algorithmic Trading poster was presented for the lovelace colloquim event 2024
